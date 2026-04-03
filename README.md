@@ -1,1 +1,1 @@
-PhantomWyrm - UniversalScrips
+PhantomWyrm - UniversalScript
